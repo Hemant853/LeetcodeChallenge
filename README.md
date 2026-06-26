@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Hemant853/LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Hemant853/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Hemant853/LeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/Hemant853/LeetcodeChallenge/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemant853/LeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Hemant853/LeetcodeChallenge/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
