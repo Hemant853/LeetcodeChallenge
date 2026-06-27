@@ -6,10 +6,6 @@ class Solution {
                 index++;
             }
         }
-        if(index == s.length()) {
-            return true;
-        } else {
-            return false;
-        }
+        return index == s.length();
     }
 }
